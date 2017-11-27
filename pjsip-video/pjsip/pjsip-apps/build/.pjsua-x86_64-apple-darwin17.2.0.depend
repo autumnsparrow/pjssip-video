@@ -1,0 +1,1628 @@
+output/pjsua-x86_64-apple-darwin17.2.0/main.o: ../src/pjsua/main.c ../src/pjsua/pjsua_app.h \
+  ../src/pjsua/pjsua_app_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsua-lib/pjsua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/cc_gcc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/m_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/size_t.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stddef.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/__stddef_max_align_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config_site.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdint.h \
+  /usr/include/stdint.h /usr/include/sys/_types/_int8_t.h \
+  /usr/include/sys/_types/_int16_t.h /usr/include/sys/_types/_int32_t.h \
+  /usr/include/sys/_types/_int64_t.h /usr/include/_types/_uint8_t.h \
+  /usr/include/_types/_uint16_t.h /usr/include/_types/_uint32_t.h \
+  /usr/include/_types/_uint64_t.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_pthread/_pthread_types.h \
+  /usr/include/sys/_types/_intptr_t.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/sys/_types/_u_int8_t.h \
+  /usr/include/sys/_types/_u_int16_t.h \
+  /usr/include/sys/_types/_u_int32_t.h \
+  /usr/include/sys/_types/_u_int64_t.h \
+  /usr/include/sys/_types/_uintptr_t.h /usr/include/_types/_intmax_t.h \
+  /usr/include/_types/_uintmax_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_autoconf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/errno.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdarg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/list.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner_cis_bitwise.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_tel_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_multipart.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_parser.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/lock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_module.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_resolve.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ioqueue.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_qos.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tls.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ssl_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/string.h \
+  /usr/include/string.h /usr/include/_types.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  /usr/include/sys/_types/_size_t.h /usr/include/sys/_types/_null.h \
+  /usr/include/sys/_types/_rsize_t.h /usr/include/sys/_types/_errno_t.h \
+  /usr/include/sys/_types/_ssize_t.h /usr/include/strings.h \
+  /usr/include/secure/_strings.h /usr/include/secure/_common.h \
+  /usr/include/secure/_string.h /usr/include/stdio.h \
+  /usr/include/sys/_types/_va_list.h /usr/include/sys/stdio.h \
+  /usr/include/sys/_types/_off_t.h /usr/include/secure/_stdio.h \
+  /usr/include/stdlib.h /usr/include/sys/wait.h \
+  /usr/include/sys/_types/_pid_t.h /usr/include/sys/_types/_id_t.h \
+  /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/machine/_mcontext.h /usr/include/i386/_mcontext.h \
+  /usr/include/mach/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/_pthread/_pthread_attr_t.h \
+  /usr/include/sys/_types/_sigaltstack.h \
+  /usr/include/sys/_types/_ucontext.h \
+  /usr/include/sys/_types/_sigset_t.h /usr/include/sys/_types/_uid_t.h \
+  /usr/include/sys/resource.h /usr/include/sys/_types/_timeval.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/sys/_types/_ct_rune_t.h /usr/include/sys/_types/_rune_t.h \
+  /usr/include/sys/_types/_wchar_t.h /usr/include/sys/_types/_dev_t.h \
+  /usr/include/sys/_types/_mode_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_aka.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_ua_layer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_dialog.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/assert.h \
+  /usr/include/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/alaw_ulaw.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/avi_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/clock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/format.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/signatures.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/frame.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/os.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/bidirectional.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/circbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/conference.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/converter.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/delaybuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/g711.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/jbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/master_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/mem_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/null_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/plc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/resample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp_xr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/high_precision.h \
+  /usr/include/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp_neg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/silencedet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/splitcomb.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stereo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/tonegen.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_adapter_sample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_ice.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_strans.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_srtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_tee.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_playlist.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wave.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wsola.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/audio_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/passthrough.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/l16.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ffmpeg_vid_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/gsm.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/speex.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ilbc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g722.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g7221.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ipp_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opencore_amr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/vid_toolbox.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/openh264.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/silk.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opus.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/bcg729.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia_videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/avi_dev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_ua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_inv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_regc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_replaces.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_xfer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_100rel.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/iscomposing.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/xml.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/mwi.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/presence.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/pidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/xpidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/rpid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/publish.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/nat_detect.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/getopt.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/base64.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/crc32.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/srv_resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns_server.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/json.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/stun_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/pcap.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/http_client.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/activesock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_console.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_telnet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pjlib.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/addr_resolv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/array.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ctype.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/ctype.h \
+  /usr/include/ctype.h /usr/include/runetype.h \
+  /usr/include/sys/_types/_wint_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/except.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/setjmp.h \
+  /usr/include/setjmp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/log.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/fifobuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_access.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_io.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/guid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/hash.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ip_helper.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool_buf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rand.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rbtree.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_select.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/unicode.h \
+  /usr/include/signal.h /usr/include/sys/_pthread/_pthread_t.h
+output/pjsua-x86_64-apple-darwin17.2.0/pjsua_app.o: ../src/pjsua/pjsua_app.c ../src/pjsua/pjsua_app.h \
+  ../src/pjsua/pjsua_app_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsua-lib/pjsua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/cc_gcc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/m_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/size_t.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stddef.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/__stddef_max_align_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config_site.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdint.h \
+  /usr/include/stdint.h /usr/include/sys/_types/_int8_t.h \
+  /usr/include/sys/_types/_int16_t.h /usr/include/sys/_types/_int32_t.h \
+  /usr/include/sys/_types/_int64_t.h /usr/include/_types/_uint8_t.h \
+  /usr/include/_types/_uint16_t.h /usr/include/_types/_uint32_t.h \
+  /usr/include/_types/_uint64_t.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_pthread/_pthread_types.h \
+  /usr/include/sys/_types/_intptr_t.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/sys/_types/_u_int8_t.h \
+  /usr/include/sys/_types/_u_int16_t.h \
+  /usr/include/sys/_types/_u_int32_t.h \
+  /usr/include/sys/_types/_u_int64_t.h \
+  /usr/include/sys/_types/_uintptr_t.h /usr/include/_types/_intmax_t.h \
+  /usr/include/_types/_uintmax_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_autoconf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/errno.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdarg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/list.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner_cis_bitwise.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_tel_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_multipart.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_parser.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/lock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_module.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_resolve.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ioqueue.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_qos.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tls.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ssl_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/string.h \
+  /usr/include/string.h /usr/include/_types.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  /usr/include/sys/_types/_size_t.h /usr/include/sys/_types/_null.h \
+  /usr/include/sys/_types/_rsize_t.h /usr/include/sys/_types/_errno_t.h \
+  /usr/include/sys/_types/_ssize_t.h /usr/include/strings.h \
+  /usr/include/secure/_strings.h /usr/include/secure/_common.h \
+  /usr/include/secure/_string.h /usr/include/stdio.h \
+  /usr/include/sys/_types/_va_list.h /usr/include/sys/stdio.h \
+  /usr/include/sys/_types/_off_t.h /usr/include/secure/_stdio.h \
+  /usr/include/stdlib.h /usr/include/sys/wait.h \
+  /usr/include/sys/_types/_pid_t.h /usr/include/sys/_types/_id_t.h \
+  /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/machine/_mcontext.h /usr/include/i386/_mcontext.h \
+  /usr/include/mach/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/_pthread/_pthread_attr_t.h \
+  /usr/include/sys/_types/_sigaltstack.h \
+  /usr/include/sys/_types/_ucontext.h \
+  /usr/include/sys/_types/_sigset_t.h /usr/include/sys/_types/_uid_t.h \
+  /usr/include/sys/resource.h /usr/include/sys/_types/_timeval.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/sys/_types/_ct_rune_t.h /usr/include/sys/_types/_rune_t.h \
+  /usr/include/sys/_types/_wchar_t.h /usr/include/sys/_types/_dev_t.h \
+  /usr/include/sys/_types/_mode_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_aka.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_ua_layer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_dialog.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/assert.h \
+  /usr/include/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/alaw_ulaw.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/avi_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/clock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/format.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/signatures.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/frame.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/os.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/bidirectional.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/circbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/conference.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/converter.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/delaybuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/g711.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/jbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/master_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/mem_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/null_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/plc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/resample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp_xr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/high_precision.h \
+  /usr/include/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp_neg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/silencedet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/splitcomb.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stereo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/tonegen.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_adapter_sample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_ice.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_strans.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_srtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_tee.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_playlist.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wave.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wsola.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/audio_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/passthrough.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/l16.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ffmpeg_vid_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/gsm.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/speex.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ilbc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g722.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g7221.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ipp_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opencore_amr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/vid_toolbox.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/openh264.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/silk.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opus.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/bcg729.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia_videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/avi_dev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_ua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_inv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_regc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_replaces.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_xfer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_100rel.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/iscomposing.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/xml.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/mwi.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/presence.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/pidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/xpidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/rpid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/publish.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/nat_detect.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/getopt.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/base64.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/crc32.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/srv_resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns_server.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/json.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/stun_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/pcap.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/http_client.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/activesock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_console.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_telnet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pjlib.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/addr_resolv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/array.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ctype.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/ctype.h \
+  /usr/include/ctype.h /usr/include/runetype.h \
+  /usr/include/sys/_types/_wint_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/except.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/setjmp.h \
+  /usr/include/setjmp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/log.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/fifobuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_access.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_io.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/guid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/hash.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ip_helper.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool_buf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rand.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rbtree.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_select.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/unicode.h
+output/pjsua-x86_64-apple-darwin17.2.0/pjsua_app_cli.o: ../src/pjsua/pjsua_app_cli.c \
+  ../src/pjsua/pjsua_app_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsua-lib/pjsua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/cc_gcc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/m_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/size_t.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stddef.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/__stddef_max_align_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config_site.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdint.h \
+  /usr/include/stdint.h /usr/include/sys/_types/_int8_t.h \
+  /usr/include/sys/_types/_int16_t.h /usr/include/sys/_types/_int32_t.h \
+  /usr/include/sys/_types/_int64_t.h /usr/include/_types/_uint8_t.h \
+  /usr/include/_types/_uint16_t.h /usr/include/_types/_uint32_t.h \
+  /usr/include/_types/_uint64_t.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_pthread/_pthread_types.h \
+  /usr/include/sys/_types/_intptr_t.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/sys/_types/_u_int8_t.h \
+  /usr/include/sys/_types/_u_int16_t.h \
+  /usr/include/sys/_types/_u_int32_t.h \
+  /usr/include/sys/_types/_u_int64_t.h \
+  /usr/include/sys/_types/_uintptr_t.h /usr/include/_types/_intmax_t.h \
+  /usr/include/_types/_uintmax_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_autoconf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/errno.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdarg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/list.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner_cis_bitwise.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_tel_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_multipart.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_parser.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/lock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_module.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_resolve.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ioqueue.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_qos.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tls.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ssl_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/string.h \
+  /usr/include/string.h /usr/include/_types.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  /usr/include/sys/_types/_size_t.h /usr/include/sys/_types/_null.h \
+  /usr/include/sys/_types/_rsize_t.h /usr/include/sys/_types/_errno_t.h \
+  /usr/include/sys/_types/_ssize_t.h /usr/include/strings.h \
+  /usr/include/secure/_strings.h /usr/include/secure/_common.h \
+  /usr/include/secure/_string.h /usr/include/stdio.h \
+  /usr/include/sys/_types/_va_list.h /usr/include/sys/stdio.h \
+  /usr/include/sys/_types/_off_t.h /usr/include/secure/_stdio.h \
+  /usr/include/stdlib.h /usr/include/sys/wait.h \
+  /usr/include/sys/_types/_pid_t.h /usr/include/sys/_types/_id_t.h \
+  /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/machine/_mcontext.h /usr/include/i386/_mcontext.h \
+  /usr/include/mach/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/_pthread/_pthread_attr_t.h \
+  /usr/include/sys/_types/_sigaltstack.h \
+  /usr/include/sys/_types/_ucontext.h \
+  /usr/include/sys/_types/_sigset_t.h /usr/include/sys/_types/_uid_t.h \
+  /usr/include/sys/resource.h /usr/include/sys/_types/_timeval.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/sys/_types/_ct_rune_t.h /usr/include/sys/_types/_rune_t.h \
+  /usr/include/sys/_types/_wchar_t.h /usr/include/sys/_types/_dev_t.h \
+  /usr/include/sys/_types/_mode_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_aka.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_ua_layer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_dialog.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/assert.h \
+  /usr/include/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/alaw_ulaw.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/avi_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/clock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/format.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/signatures.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/frame.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/os.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/bidirectional.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/circbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/conference.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/converter.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/delaybuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/g711.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/jbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/master_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/mem_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/null_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/plc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/resample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp_xr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/high_precision.h \
+  /usr/include/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp_neg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/silencedet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/splitcomb.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stereo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/tonegen.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_adapter_sample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_ice.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_strans.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_srtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_tee.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_playlist.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wave.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wsola.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/audio_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/passthrough.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/l16.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ffmpeg_vid_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/gsm.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/speex.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ilbc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g722.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g7221.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ipp_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opencore_amr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/vid_toolbox.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/openh264.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/silk.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opus.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/bcg729.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia_videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/avi_dev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_ua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_inv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_regc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_replaces.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_xfer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_100rel.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/iscomposing.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/xml.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/mwi.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/presence.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/pidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/xpidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/rpid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/publish.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/nat_detect.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/getopt.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/base64.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/crc32.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/srv_resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns_server.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/json.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/stun_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/pcap.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/http_client.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/activesock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_console.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_telnet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pjlib.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/addr_resolv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/array.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ctype.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/ctype.h \
+  /usr/include/ctype.h /usr/include/runetype.h \
+  /usr/include/sys/_types/_wint_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/except.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/setjmp.h \
+  /usr/include/setjmp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/log.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/fifobuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_access.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_io.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/guid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/hash.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ip_helper.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool_buf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rand.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rbtree.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_select.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/unicode.h
+output/pjsua-x86_64-apple-darwin17.2.0/pjsua_app_common.o: ../src/pjsua/pjsua_app_common.c \
+  ../src/pjsua/pjsua_app_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsua-lib/pjsua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/cc_gcc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/m_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/size_t.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stddef.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/__stddef_max_align_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config_site.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdint.h \
+  /usr/include/stdint.h /usr/include/sys/_types/_int8_t.h \
+  /usr/include/sys/_types/_int16_t.h /usr/include/sys/_types/_int32_t.h \
+  /usr/include/sys/_types/_int64_t.h /usr/include/_types/_uint8_t.h \
+  /usr/include/_types/_uint16_t.h /usr/include/_types/_uint32_t.h \
+  /usr/include/_types/_uint64_t.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_pthread/_pthread_types.h \
+  /usr/include/sys/_types/_intptr_t.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/sys/_types/_u_int8_t.h \
+  /usr/include/sys/_types/_u_int16_t.h \
+  /usr/include/sys/_types/_u_int32_t.h \
+  /usr/include/sys/_types/_u_int64_t.h \
+  /usr/include/sys/_types/_uintptr_t.h /usr/include/_types/_intmax_t.h \
+  /usr/include/_types/_uintmax_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_autoconf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/errno.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdarg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/list.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner_cis_bitwise.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_tel_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_multipart.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_parser.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/lock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_module.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_resolve.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ioqueue.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_qos.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tls.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ssl_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/string.h \
+  /usr/include/string.h /usr/include/_types.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  /usr/include/sys/_types/_size_t.h /usr/include/sys/_types/_null.h \
+  /usr/include/sys/_types/_rsize_t.h /usr/include/sys/_types/_errno_t.h \
+  /usr/include/sys/_types/_ssize_t.h /usr/include/strings.h \
+  /usr/include/secure/_strings.h /usr/include/secure/_common.h \
+  /usr/include/secure/_string.h /usr/include/stdio.h \
+  /usr/include/sys/_types/_va_list.h /usr/include/sys/stdio.h \
+  /usr/include/sys/_types/_off_t.h /usr/include/secure/_stdio.h \
+  /usr/include/stdlib.h /usr/include/sys/wait.h \
+  /usr/include/sys/_types/_pid_t.h /usr/include/sys/_types/_id_t.h \
+  /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/machine/_mcontext.h /usr/include/i386/_mcontext.h \
+  /usr/include/mach/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/_pthread/_pthread_attr_t.h \
+  /usr/include/sys/_types/_sigaltstack.h \
+  /usr/include/sys/_types/_ucontext.h \
+  /usr/include/sys/_types/_sigset_t.h /usr/include/sys/_types/_uid_t.h \
+  /usr/include/sys/resource.h /usr/include/sys/_types/_timeval.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/sys/_types/_ct_rune_t.h /usr/include/sys/_types/_rune_t.h \
+  /usr/include/sys/_types/_wchar_t.h /usr/include/sys/_types/_dev_t.h \
+  /usr/include/sys/_types/_mode_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_aka.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_ua_layer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_dialog.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/assert.h \
+  /usr/include/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/alaw_ulaw.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/avi_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/clock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/format.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/signatures.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/frame.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/os.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/bidirectional.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/circbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/conference.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/converter.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/delaybuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/g711.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/jbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/master_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/mem_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/null_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/plc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/resample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp_xr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/high_precision.h \
+  /usr/include/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp_neg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/silencedet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/splitcomb.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stereo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/tonegen.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_adapter_sample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_ice.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_strans.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_srtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_tee.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_playlist.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wave.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wsola.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/audio_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/passthrough.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/l16.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ffmpeg_vid_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/gsm.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/speex.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ilbc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g722.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g7221.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ipp_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opencore_amr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/vid_toolbox.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/openh264.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/silk.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opus.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/bcg729.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia_videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/avi_dev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_ua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_inv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_regc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_replaces.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_xfer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_100rel.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/iscomposing.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/xml.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/mwi.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/presence.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/pidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/xpidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/rpid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/publish.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/nat_detect.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/getopt.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/base64.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/crc32.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/srv_resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns_server.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/json.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/stun_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/pcap.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/http_client.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/activesock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_console.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_telnet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pjlib.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/addr_resolv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/array.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ctype.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/ctype.h \
+  /usr/include/ctype.h /usr/include/runetype.h \
+  /usr/include/sys/_types/_wint_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/except.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/setjmp.h \
+  /usr/include/setjmp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/log.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/fifobuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_access.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_io.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/guid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/hash.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ip_helper.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool_buf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rand.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rbtree.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_select.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/unicode.h
+output/pjsua-x86_64-apple-darwin17.2.0/pjsua_app_config.o: ../src/pjsua/pjsua_app_config.c \
+  ../src/pjsua/pjsua_app_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsua-lib/pjsua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/cc_gcc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/m_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/size_t.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stddef.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/__stddef_max_align_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config_site.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdint.h \
+  /usr/include/stdint.h /usr/include/sys/_types/_int8_t.h \
+  /usr/include/sys/_types/_int16_t.h /usr/include/sys/_types/_int32_t.h \
+  /usr/include/sys/_types/_int64_t.h /usr/include/_types/_uint8_t.h \
+  /usr/include/_types/_uint16_t.h /usr/include/_types/_uint32_t.h \
+  /usr/include/_types/_uint64_t.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_pthread/_pthread_types.h \
+  /usr/include/sys/_types/_intptr_t.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/sys/_types/_u_int8_t.h \
+  /usr/include/sys/_types/_u_int16_t.h \
+  /usr/include/sys/_types/_u_int32_t.h \
+  /usr/include/sys/_types/_u_int64_t.h \
+  /usr/include/sys/_types/_uintptr_t.h /usr/include/_types/_intmax_t.h \
+  /usr/include/_types/_uintmax_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_autoconf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/errno.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdarg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/list.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner_cis_bitwise.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_tel_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_multipart.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_parser.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/lock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_module.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_resolve.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ioqueue.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_qos.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tls.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ssl_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/string.h \
+  /usr/include/string.h /usr/include/_types.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  /usr/include/sys/_types/_size_t.h /usr/include/sys/_types/_null.h \
+  /usr/include/sys/_types/_rsize_t.h /usr/include/sys/_types/_errno_t.h \
+  /usr/include/sys/_types/_ssize_t.h /usr/include/strings.h \
+  /usr/include/secure/_strings.h /usr/include/secure/_common.h \
+  /usr/include/secure/_string.h /usr/include/stdio.h \
+  /usr/include/sys/_types/_va_list.h /usr/include/sys/stdio.h \
+  /usr/include/sys/_types/_off_t.h /usr/include/secure/_stdio.h \
+  /usr/include/stdlib.h /usr/include/sys/wait.h \
+  /usr/include/sys/_types/_pid_t.h /usr/include/sys/_types/_id_t.h \
+  /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/machine/_mcontext.h /usr/include/i386/_mcontext.h \
+  /usr/include/mach/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/_pthread/_pthread_attr_t.h \
+  /usr/include/sys/_types/_sigaltstack.h \
+  /usr/include/sys/_types/_ucontext.h \
+  /usr/include/sys/_types/_sigset_t.h /usr/include/sys/_types/_uid_t.h \
+  /usr/include/sys/resource.h /usr/include/sys/_types/_timeval.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/sys/_types/_ct_rune_t.h /usr/include/sys/_types/_rune_t.h \
+  /usr/include/sys/_types/_wchar_t.h /usr/include/sys/_types/_dev_t.h \
+  /usr/include/sys/_types/_mode_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_aka.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_ua_layer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_dialog.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/assert.h \
+  /usr/include/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/alaw_ulaw.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/avi_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/clock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/format.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/signatures.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/frame.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/os.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/bidirectional.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/circbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/conference.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/converter.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/delaybuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/g711.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/jbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/master_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/mem_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/null_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/plc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/resample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp_xr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/high_precision.h \
+  /usr/include/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp_neg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/silencedet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/splitcomb.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stereo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/tonegen.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_adapter_sample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_ice.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_strans.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_srtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_tee.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_playlist.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wave.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wsola.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/audio_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/passthrough.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/l16.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ffmpeg_vid_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/gsm.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/speex.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ilbc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g722.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g7221.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ipp_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opencore_amr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/vid_toolbox.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/openh264.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/silk.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opus.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/bcg729.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia_videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/avi_dev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_ua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_inv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_regc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_replaces.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_xfer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_100rel.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/iscomposing.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/xml.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/mwi.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/presence.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/pidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/xpidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/rpid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/publish.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/nat_detect.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/getopt.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/base64.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/crc32.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/srv_resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns_server.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/json.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/stun_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/pcap.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/http_client.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/activesock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_console.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_telnet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pjlib.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/addr_resolv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/array.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ctype.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/ctype.h \
+  /usr/include/ctype.h /usr/include/runetype.h \
+  /usr/include/sys/_types/_wint_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/except.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/setjmp.h \
+  /usr/include/setjmp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/log.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/fifobuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_access.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_io.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/guid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/hash.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ip_helper.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool_buf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rand.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rbtree.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_select.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/unicode.h
+output/pjsua-x86_64-apple-darwin17.2.0/pjsua_app_legacy.o: ../src/pjsua/pjsua_app_legacy.c \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsua-lib/pjsua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/cc_gcc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/os_auto.h \
+  /usr/include/TargetConditionals.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/m_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/size_t.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stddef.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/__stddef_max_align_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/config_site.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdint.h \
+  /usr/include/stdint.h /usr/include/sys/_types/_int8_t.h \
+  /usr/include/sys/_types/_int16_t.h /usr/include/sys/_types/_int32_t.h \
+  /usr/include/sys/_types/_int64_t.h /usr/include/_types/_uint8_t.h \
+  /usr/include/_types/_uint16_t.h /usr/include/_types/_uint32_t.h \
+  /usr/include/_types/_uint64_t.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_pthread/_pthread_types.h \
+  /usr/include/sys/_types/_intptr_t.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/sys/_types/_u_int8_t.h \
+  /usr/include/sys/_types/_u_int16_t.h \
+  /usr/include/sys/_types/_u_int32_t.h \
+  /usr/include/sys/_types/_u_int64_t.h \
+  /usr/include/sys/_types/_uintptr_t.h /usr/include/_types/_intmax_t.h \
+  /usr/include/_types/_uintmax_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_autoconf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/errno.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/stdarg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/list.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/scanner_cis_bitwise.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_tel_uri.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_multipart.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_parser.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/lock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_module.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_resolve.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ioqueue.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_qos.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transport_tls.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ssl_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/string.h \
+  /usr/include/string.h /usr/include/_types.h \
+  /usr/include/Availability.h /usr/include/AvailabilityInternal.h \
+  /usr/include/sys/_types/_size_t.h /usr/include/sys/_types/_null.h \
+  /usr/include/sys/_types/_rsize_t.h /usr/include/sys/_types/_errno_t.h \
+  /usr/include/sys/_types/_ssize_t.h /usr/include/strings.h \
+  /usr/include/secure/_strings.h /usr/include/secure/_common.h \
+  /usr/include/secure/_string.h /usr/include/stdio.h \
+  /usr/include/sys/_types/_va_list.h /usr/include/sys/stdio.h \
+  /usr/include/sys/_types/_off_t.h /usr/include/secure/_stdio.h \
+  /usr/include/stdlib.h /usr/include/sys/wait.h \
+  /usr/include/sys/_types/_pid_t.h /usr/include/sys/_types/_id_t.h \
+  /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/machine/_mcontext.h /usr/include/i386/_mcontext.h \
+  /usr/include/mach/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/_pthread/_pthread_attr_t.h \
+  /usr/include/sys/_types/_sigaltstack.h \
+  /usr/include/sys/_types/_ucontext.h \
+  /usr/include/sys/_types/_sigset_t.h /usr/include/sys/_types/_uid_t.h \
+  /usr/include/sys/resource.h /usr/include/sys/_types/_timeval.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/sys/_types/_ct_rune_t.h /usr/include/sys/_types/_rune_t.h \
+  /usr/include/sys/_types/_wchar_t.h /usr/include/sys/_types/_dev_t.h \
+  /usr/include/sys/_types/_mode_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_auth_aka.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_ua_layer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip/sip_dialog.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/assert.h \
+  /usr/include/assert.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/alaw_ulaw.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/avi_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/clock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/event.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/format.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/signatures.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/frame.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/os.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/bidirectional.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/circbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/conference.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/converter.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/delaybuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/echo_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/endpoint.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/audiodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-audiodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/g711.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/config_auto.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/jbuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/master_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/mem_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/null_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/plc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/resample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtcp_xr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/high_precision.h \
+  /usr/include/math.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/rtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sdp_neg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/silencedet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/sound_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/splitcomb.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stereo.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/stream_common.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/tonegen.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_adapter_sample.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_ice.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_strans.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/ice_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_auth.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_transaction.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/stun_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_sock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/turn_session.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_loop.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_srtp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/transport_udp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/config.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_stream.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/vid_tee.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_playlist.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wav_port.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wave.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia/wsola.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/audio_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/passthrough.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/l16.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ffmpeg_vid_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/gsm.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/speex.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ilbc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g722.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/g7221.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/ipp_codecs.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opencore_amr.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/vid_toolbox.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/openh264.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/silk.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/opus.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-codec/bcg729.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia_videodev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/videodev_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjmedia/include/pjmedia-videodev/avi_dev.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_ua.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_inv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_regc.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_replaces.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_xfer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/types.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_100rel.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-ua/sip_timer.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/evsub_msg.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/iscomposing.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/xml.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/mwi.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/presence.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/pidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/xpidf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/rpid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjsip/include/pjsip-simple/publish.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjnath/include/pjnath/nat_detect.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/errno.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/getopt.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/base64.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/crc32.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/md5.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/hmac_sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/sha1.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/srv_resolver.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/dns_server.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/string.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/json.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/stun_simple.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/pcap.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/http_client.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/activesock.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_console.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_imp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib-util/include/pjlib-util/cli_telnet.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pjlib.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/addr_resolv.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/array.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ctype.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/ctype.h \
+  /usr/include/ctype.h /usr/include/runetype.h \
+  /usr/include/sys/_types/_wint_t.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/except.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/compat/setjmp.h \
+  /usr/include/setjmp.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/log.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/fifobuf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_access.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/file_io.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/guid.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/hash.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/ip_helper.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/pool_buf.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rand.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/rbtree.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/sock_select.h \
+  /Users/apple/Downloads/svn.local/pjsip/pjlib/include/pj/unicode.h \
+  ../src/pjsua/pjsua_app_common.h
+../bin/pjsua-x86_64-apple-darwin17.2.0: /Users/apple/Downloads/svn.local/pjsip/pjsip/lib/libpjsua-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/pjsip/lib/libpjsip-ua-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/pjsip/lib/libpjsip-simple-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/pjsip/lib/libpjsip-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/pjmedia/lib/libpjmedia-codec-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/pjmedia/lib/libpjmedia-videodev-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/pjmedia/lib/libpjmedia-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/pjmedia/lib/libpjmedia-audiodev-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/pjnath/lib/libpjnath-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/pjlib-util/lib/libpjlib-util-x86_64-apple-darwin17.2.0.a  /Users/apple/Downloads/svn.local/pjsip/third_party/lib/libsrtp-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/third_party/lib/libresample-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/third_party/lib/libgsmcodec-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/third_party/lib/libspeex-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/third_party/lib/libilbccodec-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/third_party/lib/libg7221codec-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/third_party/lib/libyuv-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/third_party/lib/libwebrtc-x86_64-apple-darwin17.2.0.a /Users/apple/Downloads/svn.local/pjsip/pjlib/lib/libpj-x86_64-apple-darwin17.2.0.a
